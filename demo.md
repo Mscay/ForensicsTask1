@@ -7,8 +7,10 @@ FORENSIC
    Trong lĩnh vực an toàn thông tin, Computer Forensics hay còn gọi là điều tra số là công việc phát hiện, bảo vệ và phân tích thông tin được lưu trữ, truyền tải hoặc được tạo ra bởi một máy tính hoặc mạng máy tính, nhằm đưa ra các suy luận hợp lý để tìm nguyên nhân, giải thích các hiện tượng trong quá trình điều tra.
 2. Một số dạng challenge:
 <img width="503" alt="image" src="https://user-images.githubusercontent.com/72620926/219302937-6dfba436-7352-4e2d-94c2-0110d4bec0cf.png">
-![](image.png)
-    1. Image file format analysis
+
+![abc](image.png)
+
+1. Image file format analysis
     2. Network Forensics
     3. Network Forensics
     4. Sound File
